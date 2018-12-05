@@ -1,5 +1,8 @@
 # Mobile Web Specialist Course - Google Scholarship
 ## Restaurant Reviews App
+
+**Project live [over here](https://raquelcode.github.io/mws-restaurant-stage-App-1-master-master/)** 
+
 ---
 
 This is a three part project as part of Udacity's [Mobile Web Specialist Nanodegree](https://www.udacity.com/course/mobile-web-specialist-nanodegree--nd024).
